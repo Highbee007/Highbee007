@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Highbee007
+- 👋 Hi, I’m @Highbee
 - 👀 I’m interested in Computer programming, Data Science, and Analytics
 - 🌱 I’m currently learning Phython and Javascript
 - 💞️ I’m looking to collaborate on small projects
