@@ -8,11 +8,11 @@ I'm an entry-level backend developer with a growing interest in full-stack devel
 
 ### 🚀 Skills
 
-- **Languages:** Python, JavaScript, SQL
+- **Languages:** Python, JavaScript, SQL, C# (learning)
 - **Frontend:** HTML, CSS, React, Tailwind CSS
 - **Backend:** Django (learning), Node.js (basic knowledge)
 - **Database:** MySQL, PostgreSQL
-- **Tools:** Git, VS Code, GitHub
+- **Tools:** Git, VS Code, GitHub, VS Community
 
 ---
 
