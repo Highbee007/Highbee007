@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nageri Ibrahim Damilola
 
-### 💻 Passionate Web Developer | Python & SQL Enthusiast | React Learner
+### 💻 Passionate Web Developer | Python & SQL Enthusiast | React & C# Learner
 
 I'm an entry-level backend developer with a growing interest in full-stack development. I love building secure and efficient web systems. Currently exploring new technologies and sharpening my problem-solving skills.
 
