@@ -30,6 +30,7 @@ I'm an entry-level backend developer with a growing interest in full-stack devel
 - Django Rest Framework (DRF)
 - Full-stack development with React and Django
 - Advanced SQL queries
+- Game Development with Unity and C#
 
 ---
 
