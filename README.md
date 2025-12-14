@@ -22,6 +22,7 @@ I'm an entry-level backend developer with a growing interest in full-stack devel
 - Contributing to open-source (beginner level)
 - Improving my backend problem-solving with Python and SQL
 - Learning deployment (Netlify, Vercel, and basic AWS)
+- Learning Game Development
 
 ---
 
